@@ -5,6 +5,6 @@ fun main() {
 // CODE DARI Faisal rizki
     println("Halo saya Defa")
 
-//    CODE APAKAH CONFLICT
-//    CODE APAKAH CONFLICT
+// CODE DARI DEFA
+    println("Halo saya asal Madiun")
 }

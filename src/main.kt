@@ -6,5 +6,5 @@ fun main() {
     println("Halo saya Defa")
 
 // CODE DARI DEFA
-    println("Halo saya asal Madiun")
+    println("Halo saya asal Banjarmasin")
 }

@@ -11,6 +11,7 @@ fun main() {
 }
 
 fun separateNumber(number: Int) {
+    println("")
     val numberString:String = number.toString()
     for (i in numberString.indices) {
         var stringNumber:String = numberString[i].toString()

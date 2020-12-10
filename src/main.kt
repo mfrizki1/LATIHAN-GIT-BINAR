@@ -2,6 +2,6 @@ fun main() {
 // CODE DARI FAISAL
     println("Code dari Faisal")
 
-// CODE DARI DEFA
+// CODE DARI Faisal rizki
     println("Halo saya Defa")
 }
